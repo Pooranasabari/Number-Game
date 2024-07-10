@@ -1,0 +1,24 @@
+body{
+    background-image: url(./bg\ img.jpg);
+    background-size: cover;
+}
+#main{
+    height: 400px;
+    width: 550px;
+    border: 5px solid black;
+    margin-top: 150px;
+    margin: auto;
+    margin-top: 100px;
+    background: rgb(37,240,255);
+    text-align: center;
+    opacity: 85%;
+    border: 10px solid white;
+}
+#rules{
+    text-align: justify;
+    margin-left: 125px;
+}
+
+button{
+    border-radius: 20%;
+}
